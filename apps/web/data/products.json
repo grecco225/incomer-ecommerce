@@ -1,0 +1,178 @@
+[
+  {
+    "id": "s26-ultra",
+    "title": "Samsung Galaxy S26 Ultra",
+    "description": "El teléfono insignia más potente con cámara de 200MP, procesador Snapdragon 8 Elite y S-Pen integrado.",
+    "specs": ["Pantalla: 6.9\" Dynamic AMOLED 2X 120Hz", "Procesador: Snapdragon 8 Elite", "RAM: 12GB", "Almacenamiento: 256GB", "Cámara: 200MP + 50MP + 10MP", "Batería: 5000mAh con carga 45W", "S-Pen incluido"],
+    "price": 1449.00,
+    "image": "/s26-ultra.png",
+    "badge": "Disponible",
+    "category": "Teléfonos",
+    "stock": 15
+  },
+  {
+    "id": "iphone-15-pro",
+    "title": "iPhone 15 Pro Max",
+    "description": "Chasis de titanio grado aeroespacial, chip A17 Pro y el sistema de cámara con zoom óptico 5x más potente de Apple.",
+    "specs": ["Pantalla: 6.7\" Super Retina XDR 120Hz", "Procesador: Apple A17 Pro", "RAM: 8GB", "Almacenamiento: 256GB", "Cámara: 48MP + 12MP + 12MP Zoom 5x", "Batería: hasta 29 horas de video", "Titanio aeroespacial"],
+    "price": 1199.00,
+    "image": "/iphone-15.png",
+    "badge": "Popular",
+    "category": "Teléfonos",
+    "stock": 12
+  },
+  {
+    "id": "pixel-9-pro",
+    "title": "Google Pixel 9 Pro",
+    "description": "La mejor experiencia Android con Gemini AI integrado, pantalla Actua LTPO y 7 años de actualizaciones garantizadas.",
+    "specs": ["Pantalla: 6.3\" Actua LTPO 120Hz", "Procesador: Google Tensor G4", "RAM: 16GB", "Almacenamiento: 256GB", "Cámara: 50MP + 48MP + 48MP", "Batería: 4700mAh", "7 años de actualizaciones"],
+    "price": 999.00,
+    "image": "/pixel-9.png",
+    "badge": "Nuevo",
+    "category": "Teléfonos",
+    "stock": 10
+  },
+  {
+    "id": "xiaomi-redmi-note-15",
+    "title": "Xiaomi Redmi Note 15 4G",
+    "description": "Excelente relación calidad-precio con pantalla AMOLED, procesador MediaTek Helio G100 y batería de 6000mAh.",
+    "specs": ["Pantalla: 6.77\" AMOLED 120Hz", "Procesador: MediaTek Helio G100", "RAM: 8GB", "Almacenamiento: 256GB", "Cámara: 108MP + 2MP", "Batería: 6000mAh carga 33W", "Resistencia IP64"],
+    "price": 245.00,
+    "image": "/redmi-note-15.png",
+    "badge": "Oferta",
+    "category": "Teléfonos",
+    "stock": 30
+  },
+  {
+    "id": "ipad-pro-m4",
+    "title": "iPad Pro M4 11\"",
+    "description": "Ultrafino con pantalla OLED Ultra Retina XDR en tándem y el revolucionario procesador Apple M4.",
+    "specs": ["Pantalla: 11\" Ultra Retina XDR OLED", "Procesador: Apple M4", "RAM: 8GB", "Almacenamiento: 256GB", "Conectividad: WiFi 6E + USB-C Thunderbolt", "Batería: hasta 10 horas", "Peso: 444g"],
+    "price": 1099.00,
+    "image": "/ipad-pro-m4.png",
+    "badge": "Top",
+    "category": "Tablets",
+    "stock": 7
+  },
+  {
+    "id": "galaxy-tab-s9",
+    "title": "Samsung Galaxy Tab S9",
+    "description": "Pantalla AMOLED 120Hz, resistencia al agua IP68, S-Pen incluido y chipset Snapdragon 8 Gen 2.",
+    "specs": ["Pantalla: 11\" Dynamic AMOLED 2X 120Hz", "Procesador: Snapdragon 8 Gen 2", "RAM: 8GB", "Almacenamiento: 128GB", "Resistencia: IP68", "S-Pen incluido", "Batería: 8400mAh"],
+    "price": 799.00,
+    "image": "/galaxy-tab-s9.png",
+    "badge": "Disponible",
+    "category": "Tablets",
+    "stock": 14
+  },
+  {
+    "id": "xiaomi-pad-6",
+    "title": "Xiaomi Pad 6",
+    "description": "Excelente relación calidad-precio con pantalla WQHD+ de 144Hz y procesador Snapdragon 870.",
+    "specs": ["Pantalla: 11\" IPS LCD WQHD+ 144Hz", "Procesador: Snapdragon 870", "RAM: 6GB", "Almacenamiento: 128GB", "Batería: 8840mAh carga 33W", "Altavoces: 4 altavoces Dolby Atmos"],
+    "price": 349.00,
+    "image": "/xiaomi-pad-6.png",
+    "badge": "Oferta",
+    "category": "Tablets",
+    "stock": 20
+  },
+  {
+    "id": "lg-oled-c4",
+    "title": "LG OLED C4 65\"",
+    "description": "La referencia en calidad de imagen con negros perfectos, procesador α9 AI y 4 puertos HDMI 2.1.",
+    "specs": ["Pantalla: 65\" OLED evo 4K 120Hz", "Procesador: α9 AI Gen7", "HDR: Dolby Vision IQ / HDR10 / HLG", "Gaming: G-Sync / FreeSync Premium", "Audio: Dolby Atmos 60W", "HDMI 2.1 x4"],
+    "price": 1699.00,
+    "image": "/lg-oled-c4.png",
+    "badge": "Premium",
+    "category": "Televisores",
+    "stock": 5
+  },
+  {
+    "id": "samsung-qn90d",
+    "title": "Samsung QN90D QLED 55\"",
+    "description": "Mini LED inteligente con brillo deslumbrante de 4000 nits y excelente control de reflejos.",
+    "specs": ["Pantalla: 55\" Neo QLED 4K 144Hz", "Brillo: hasta 4000 nits", "Procesador: Neo Quantum 4K", "HDR: Quantum HDR 32x", "Gaming: VRR 144Hz / ALLM", "Tizen Smart TV"],
+    "price": 1399.00,
+    "image": "/samsung-qn90d.png",
+    "badge": "Popular",
+    "category": "Televisores",
+    "stock": 6
+  },
+  {
+    "id": "switch-oled",
+    "title": "Nintendo Switch OLED",
+    "description": "Pantalla OLED vibrante de 7 pulgadas, base con puerto LAN cableado y 64GB de almacenamiento.",
+    "specs": ["Pantalla: 7\" OLED 720p", "Almacenamiento: 64GB expandible", "Batería: 4.5 a 9 horas", "Conectividad: WiFi / Bluetooth 4.1", "Base con puerto LAN", "Modos: Portátil / Televisión / Mesa"],
+    "price": 529.00,
+    "image": "/switch-oled.png",
+    "badge": "Oferta",
+    "category": "Zona Gamer",
+    "stock": 25
+  },
+  {
+    "id": "ps5-slim",
+    "title": "PlayStation 5 Slim",
+    "description": "Consola de nueva generación con SSD ultrarrápido, ray tracing nativo y retrocompatibilidad PS4.",
+    "specs": ["CPU: AMD Zen 2 8-core 3.5GHz", "GPU: 10.28 TFLOPS RDNA 2", "RAM: 16GB GDDR6", "Almacenamiento: 1TB SSD NVMe", "Salida: 8K / 4K 120fps / 1080p 120fps", "Audio: Tempest 3D Audio"],
+    "price": 499.00,
+    "image": "/ps5-slim.png",
+    "badge": "Nuevo",
+    "category": "Zona Gamer",
+    "stock": 10
+  },
+  {
+    "id": "razer-huntsman-v3",
+    "title": "Razer Huntsman V3 Pro",
+    "description": "Teclado mecánico de nivel profesional con switches analógicos de última generación.",
+    "specs": ["Switches: Razer Analog Optical Gen 2", "Retroiluminación: Chroma RGB por tecla", "Polling Rate: 8000Hz", "Memoria: Almacenamiento macro integrado", "Conectividad: USB-C", "Reposamuñecas magnético incluido"],
+    "price": 229.00,
+    "image": "/razer-huntsman.png",
+    "badge": "Gamer",
+    "category": "Zona Gamer",
+    "stock": 18
+  },
+  {
+    "id": "echo-max",
+    "title": "Amazon Echo Dot Max",
+    "description": "El altavoz inteligente más popular con sonido de alta definición, Alexa y Hub Smart Home integrado.",
+    "specs": ["Altavoz: 3\" con woofer dedicado", "Asistente: Alexa con IA generativa", "Conectividad: WiFi 6 / Bluetooth 5.2", "Hub: Zigbee / Matter integrado", "Procesador: AZ2 Neural Edge", "Temperatura + humedad incorporados"],
+    "price": 139.00,
+    "image": "/echo-max.png",
+    "badge": "Nuevo",
+    "category": "Gadgets",
+    "stock": 50
+  },
+  {
+    "id": "airpods-pro-2",
+    "title": "AirPods Pro (2da gen)",
+    "description": "Cancelación activa de ruido adaptativa, audio personalizado y el chip H2 de Apple.",
+    "specs": ["ANC: Cancelación activa adaptativa", "Chip: Apple H2", "Audio: Spatial Audio con cabeza tracking", "Batería: 6h ANC / 30h con estuche", "Resistencia: IPX4 (AirPods + estuche)", "Carga: MagSafe / Lightning / USB-C"],
+    "price": 249.00,
+    "image": "/airpods-pro.png",
+    "badge": "Popular",
+    "category": "Gadgets",
+    "stock": 35
+  },
+  {
+    "id": "vacuum-e5",
+    "title": "Robot Vacuum E5 Pro",
+    "description": "Limpieza autónoma con mapeo LiDAR, fregado con presión ajustable y autovaciado de 60 días.",
+    "specs": ["Succión: 8000Pa", "Navegación: LiDAR + IA", "Fregado: Vibración sónica 3000 veces/min", "Autovaciado: base 2.5L / 60 días", "Duración: hasta 180 min por carga", "Control: App / Alexa / Google Home"],
+    "price": 399.00,
+    "image": "/vacuum-e5.png",
+    "badge": "Top",
+    "category": "Hogar",
+    "stock": 8
+  },
+  {
+    "id": "nest-hub-max",
+    "title": "Google Nest Hub Max",
+    "description": "Pantalla inteligente de 10 pulgadas con cámara integrada para control total del hogar.",
+    "specs": ["Pantalla: 10\" LCD 1280x800", "Cámara: 6.5MP con Face Match", "Audio: Altavoces dobles con woofer", "Procesador: Cortex A53 x4", "Conectividad: WiFi / Bluetooth", "Compatibilidad: Google Home / Matter / Thread"],
+    "price": 229.00,
+    "image": "/nest-hub.png",
+    "badge": "Smart",
+    "category": "Hogar",
+    "stock": 15
+  }
+]
